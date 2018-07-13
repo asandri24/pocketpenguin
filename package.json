@@ -1,0 +1,19 @@
+{
+  "name": "pocketpenguin",
+  "version": "1.0.0",
+  "description": "Student Loan App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asandri24/pocketpenguin.git"
+  },
+  "author": "Akshay Sandri - Vinu Babu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asandri24/pocketpenguin/issues"
+  },
+  "homepage": "https://github.com/asandri24/pocketpenguin#readme"
+}

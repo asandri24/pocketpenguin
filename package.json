@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/asandri24/pocketpenguin/issues"
   },
-  "homepage": "https://github.com/asandri24/pocketpenguin#readme"
+  "homepage": "https://github.com/asandri24/pocketpenguin#readme",
+  "dependencies": {
+    "webpack": "^4.16.0"
+  }
 }
